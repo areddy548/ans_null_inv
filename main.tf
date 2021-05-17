@@ -51,3 +51,7 @@ variable "ssh_private_key" {
 variable "insecure_no_strict_host_key_checking" {
   default = false
 }
+
+variable "something" {
+  default = "mytesting"
+}
