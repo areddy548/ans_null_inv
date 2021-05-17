@@ -56,3 +56,7 @@ variable "something" {
   default = "testing"
 }
 
+variable "something1" {
+  default = "testing"
+}
+
