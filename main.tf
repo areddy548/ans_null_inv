@@ -63,7 +63,11 @@ variable "something1" {
 variable "something2" {
   default = "testing"
 }
-variable "something2" {
+variable "something3" {
+  default = "testing"
+}
+
+variable "something4" {
   default = "testing"
 }
 
